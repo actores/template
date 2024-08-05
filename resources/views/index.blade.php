@@ -14,7 +14,7 @@
     <body>
     @endsection
     @section('content')
-    
+    asdfaksdhfkashf
 
     @endsection
     @section('scripts')
